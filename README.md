@@ -16,7 +16,7 @@ A: This is a adblock filter list to block annoying elements on LinkedIn.
 Q: How do I use it?
 
 A: Follow these steps
-1. Copy the RAW link for the `.txt` file: https://raw.githubusercontent.com/robonxt/CleanYourLinkedIn/main/CleanYourLinkedIn.txt
+1. Copy the RAW link for the `.txt` file: https://raw.githubusercontent.com/amneacsu/CleanYourLinkedIn/main/CleanYourLinkedIn.txt
 2. Read and follow this: https://github.com/gorhill/uBlock/wiki/Filter-lists-from-around-the-web
 3. Profit
 
