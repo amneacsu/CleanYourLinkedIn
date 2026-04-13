@@ -27,3 +27,6 @@ www.linkedin.com##li:has-text(Recommended)
 www.linkedin.com##span:has-text(obs recommende):upward(6)
 www.linkedin.com##span:has-text(obs recommende)
 www.linkedin.com##li:has-text(obs recommende)
+
+! forked to add:
+www.linkedin.com##p:has-text(Suggested):upward(8)
