@@ -30,3 +30,4 @@ www.linkedin.com##li:has-text(obs recommende)
 
 ! forked to add:
 www.linkedin.com##p:has-text(Suggested):upward(8)
+www.linkedin.com###p:has-text(Recommended):upward(9)
